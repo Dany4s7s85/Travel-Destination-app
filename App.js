@@ -3,35 +3,31 @@ import { Text, View, Button, StyleSheet, Image } from 'react-native';
 import Constants from 'expo-constants';
 
 // You can import from local files
-import AssetExample from './components/AssetExample';
-import logo from './assets/lanti.jpg';
-
-
 // or any pure javascript modules available in npm
 import { Card } from 'react-native-paper';
 
 const BooksPage= () => {
     
 const mes = () => {
-        alert('');
+        alert('Walk Area,Children Slide,Canteen For All People,Grass Place For Sitting');
     };
 const mes2 = () => {
-  alert('');
+  alert('Near Model Bazar Multan Road Lodhran');
 };
 const mes3 = () => {
-  alert('');
+  alert('Mian Road and main Bazar');
 };
 const mes4 = () => {
-  alert('');
+  alert('Storage Place');
 };
 const mes5 = () => {
-  alert('');
+  alert('A Mosque and Some Houses also a Melted Road');
 };
 const mes6 = () => {
-  alert('');
+  alert('Melted Road and Buldings and a private Hospital');
 };
 const mes7 = () => {
-  alert('');
+  alert('That is Only Park in the center of City and Place where childer are play different games');
 };
 
 
